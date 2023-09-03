@@ -16,8 +16,7 @@
 
 body {
     margin: 0;
-    font-family: "OpenSans";
-    /* дописать шрифты */
+    font-family: "OpenSans", sans-serif;
     width: 1660px;
 }
 
@@ -176,13 +175,11 @@ body {
 }
 
 .header-content {
-    font-family: "OpenSans";
-    /* дописать шрифты */
+    font-family: "OpenSans", sans-serif;
     color: #ffffff;
 }
 
 .top-panel {
-    /* padding-top: 29px; */
     display: block;
     margin-top: -425px;
 }
@@ -226,7 +223,6 @@ body {
     color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
-    /* z-index: 999; */
 }
 
 .menu-link:hover {
@@ -253,8 +249,7 @@ body {
 
 main {
     width: 1660px;
-    font-family: "OpenSans";
-    /* дописать шрифты */
+    font-family: "OpenSans", sans-serif;
 }
 
 .trends {
