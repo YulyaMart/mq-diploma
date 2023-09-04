@@ -17,7 +17,6 @@
 body {
     margin: 0 auto;
     font-family: "OpenSans", sans-serif;
-    /* width: 100vw; */
 }
 
 .centering-conteiner {
@@ -260,7 +259,6 @@ body {
 }
 
 main {
-    /* width: 1660px; */
     font-family: "OpenSans", sans-serif;
 }
 
